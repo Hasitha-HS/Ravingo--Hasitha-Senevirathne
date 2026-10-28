@@ -4,6 +4,9 @@ An enterprise-grade ASP.NET Core Web API with a React frontend built for managin
 
 ---
 
+## Development Time & Effort
+- **Total Time Spent:**  ~3 hours .
+
 ## Project Structure
 - Ravigno.StockTransfer.Api/ - ASP.NET Core Web API (Backend)
 - FE/ - React + Vite Application (Frontend)
