@@ -1,0 +1,16 @@
+﻿# .NET / C# Exclusions
+bin/
+obj/
+.vs/
+*.user
+*.userosscache
+*.suo
+appsettings.Development.json
+
+# Node.js / React Exclusions
+**/node_modules/
+**/dist/
+**/build/
+.vscode/
+.DS_Store
+*.log

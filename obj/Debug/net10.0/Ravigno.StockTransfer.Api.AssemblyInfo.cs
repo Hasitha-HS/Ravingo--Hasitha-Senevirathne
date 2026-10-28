@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ravigno.StockTransfer.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27445f45e1f45b46731e41acac99495e9228ae31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a035d827e89098292a5c987a6b2ec5f8c468c46c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ravigno.StockTransfer.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ravigno.StockTransfer.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
