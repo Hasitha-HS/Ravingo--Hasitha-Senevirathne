@@ -1,0 +1,6 @@
+@Ravigno.StockTransfer.Api_HostAddress = http://localhost:5266
+
+GET {{Ravigno.StockTransfer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

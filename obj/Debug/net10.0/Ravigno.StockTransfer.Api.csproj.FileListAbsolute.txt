@@ -1,0 +1,8 @@
+C:\Users\hasit\Documents\C# Projects\Ravigno.StockTransfer.Api\Ravigno.StockTransfer.Api\obj\Debug\net10.0\Ravigno.StockTransfer.Api.csproj.AssemblyReference.cache
+C:\Users\hasit\Documents\C# Projects\Ravigno.StockTransfer.Api\Ravigno.StockTransfer.Api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hasit\Documents\C# Projects\Ravigno.StockTransfer.Api\Ravigno.StockTransfer.Api\obj\Debug\net10.0\Ravigno.StockTransfer.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasit\Documents\C# Projects\Ravigno.StockTransfer.Api\Ravigno.StockTransfer.Api\obj\Debug\net10.0\Ravigno.StockTransfer.Api.AssemblyInfoInputs.cache
+C:\Users\hasit\Documents\C# Projects\Ravigno.StockTransfer.Api\Ravigno.StockTransfer.Api\obj\Debug\net10.0\Ravigno.StockTransfer.Api.AssemblyInfo.cs
+C:\Users\hasit\Documents\C# Projects\Ravigno.StockTransfer.Api\Ravigno.StockTransfer.Api\obj\Debug\net10.0\Ravigno.StockTransfer.Api.csproj.CoreCompileInputs.cache
+C:\Users\hasit\Documents\C# Projects\Ravigno.StockTransfer.Api\Ravigno.StockTransfer.Api\obj\Debug\net10.0\Ravigno.StockTransfer.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hasit\Documents\C# Projects\Ravigno.StockTransfer.Api\Ravigno.StockTransfer.Api\obj\Debug\net10.0\Ravigno.StockTransfer.Api.MvcApplicationPartsAssemblyInfo.cache
